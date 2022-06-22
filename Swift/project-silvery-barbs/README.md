@@ -2,7 +2,7 @@ This program is utilizes Mac as platform and uses XCode.
 
 To run the file, open folder with XCode, Select `iPhone 8 - iPhone 13 ` then compile.
 
-<img width="733" alt="image" src="https://user-images.githubusercontent.com/36967168/174941770-47ce5f93-d7e9-4930-880d-909951008749.png">
+<img width="733" alt="Screen Shot 2022-06-21 at 9 13 25 PM" src="https://user-images.githubusercontent.com/36967168/174941933-cef5f151-b08c-4f29-85cf-2747871eebd6.png">
 
 
 ## Preview

@@ -1,3 +1,7 @@
+This program is utilizes Mac as platform and uses XCode.
+
+To run the file, open folder with XCode, Select `iPhone 8 - iPhone 13 ` then compile.
+
 ## Preview
 
 This program is created to gather Dungeons and Dragon Players to meet up and schedule DnD sessions.
